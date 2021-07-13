@@ -6,6 +6,8 @@ Il s'agit du projet 4 du parcours data analyst proposé par [Open Classrooms](ht
 ## Case study
 
 Réalisé un état des lieux de la sous-nutrition en 2017 à partir des données de la FAO 
+![graph_FAO](https://github.com/MarionCoutarel/FAO_P4_OC/blob/main/graph_FAO.png?raw=true)
+
 
 ## Objectifs
 
